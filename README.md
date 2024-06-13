@@ -1,4 +1,4 @@
-# ClearSpot AI - ROS2 Crash Course
+
 
 ## Table of Contents
 
@@ -90,6 +90,8 @@ Next, Let's see the differences between ROS 1 and ROS 2.
 7. **Better Support for Multi-Robot Systems**:
    - ROS 2 includes features that simplify the development and deployment of multi-robot systems, including improved communication and coordination mechanisms.
 
+## 2. Note <a name="note"></a>
+ These hands-on exercises are designed to complement the theoretical understanding provided in the ROS 2 documentation and tutorials. Through practical application, learners can reinforce their understanding of key concepts and develop essential skills for working with ROS 2. Feel free to modify the exercises, explore additional functionalities, and share your experience with the ROS community for further learning and collaboration.
 ## 3. Background <a name="background"></a>
 In order to understand the significance and evolution of ROS 2, it's helpful to have some context about the origins and development of the Robot Operating System (ROS) ecosystem.
 ### Evolution of ROS 1
